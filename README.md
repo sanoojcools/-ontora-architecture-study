@@ -16,6 +16,7 @@ I spent a week reverse-engineering their public signals — product demo frames,
 
 This is not a teardown. It is a **technical study** of an ambitious architecture built under extreme constraints. Every builder will recognize the tradeoffs. **And I may be wrong about any of it — corrections welcome.**
 
+![Ontora Architecture v2 — Signal-Validated Reconstruction](Ontora_Architecture_v2_Signal_MyTake.png)
 ---
 
 ## Layer 1: Campaign Orchestration — The Brain Above the Interview

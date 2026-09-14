@@ -2,6 +2,22 @@
 
 > A respectful look at how a three-person YC team built an AI-native process discovery engine in four months, and the architectural tensions every company in this space will face at scale.
 
+**Series:** Ontora (this study) → [Atlan architecture study](https://github.com/sanoojcools/atlan-architecture-study)
+
+This is an independent public-signal reconstruction. It is not Ontora product documentation, not an affiliation, and not a claim that any inferred layer ships in production as described.
+
+### Repo name — leading hyphen (do not drop it)
+
+GitHub currently names this repository **`-ontora-architecture-study`**. The slug starts with a hyphen. That is the live URL. A rename is a separate Sanuj decision and is **not** part of this packaging pass. Dual-link the display name and the hyphenated slug so copy-paste does not 404:
+
+| Label | URL |
+| --- | --- |
+| Canonical (works today) | [github.com/sanoojcools/-ontora-architecture-study](https://github.com/sanoojcools/-ontora-architecture-study) |
+| Display name | Ontora architecture study |
+| Next in series | [github.com/sanoojcools/atlan-architecture-study](https://github.com/sanoojcools/atlan-architecture-study) |
+
+A link that omits the leading hyphen (`sanoojcools/ontora-architecture-study`) will 404 until/unless the GitHub repo is renamed. Prefer the canonical URL above.
+
 ---
 
 ## The Setup: Why This Matters
@@ -333,4 +349,4 @@ Public-signal intelligence (OSINT) — all sources publicly available. No inside
 
 ---
 
-*Published: August 2026 | Author: [Sanuj Krishnan](https://github.com/sanoojcools)*
+*Published: August 2026 | Author: [Sanuj Krishnan](https://github.com/sanoojcools) | Series: Ontora (this repo: [sanoojcools/-ontora-architecture-study](https://github.com/sanoojcools/-ontora-architecture-study)) → [Atlan](https://github.com/sanoojcools/atlan-architecture-study)*
